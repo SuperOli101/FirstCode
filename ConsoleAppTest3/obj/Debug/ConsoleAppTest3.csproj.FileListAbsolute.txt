@@ -1,0 +1,7 @@
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\bin\Debug\ConsoleAppTest3.exe.config
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\bin\Debug\ConsoleAppTest3.exe
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\bin\Debug\ConsoleAppTest3.pdb
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\obj\Debug\ConsoleAppTest3.csprojResolveAssemblyReference.cache
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\obj\Debug\ConsoleAppTest3.csproj.CoreCompileInputs.cache
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\obj\Debug\ConsoleAppTest3.exe
+D:\Mein\Projekte\_Probe\2017\_Git\Test3\ConsoleAppTest3\obj\Debug\ConsoleAppTest3.pdb
