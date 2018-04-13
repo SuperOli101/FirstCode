@@ -12,6 +12,8 @@ namespace ConsoleAppTest3
         {
             Console.WriteLine("Hello SVN");
             string str = Console.ReadLine();
+            if(str.Length == 0)
+                str = Console.ReadLine();
         }
     }
 }
