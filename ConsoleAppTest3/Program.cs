@@ -16,6 +16,8 @@ namespace ConsoleAppTest3
                 str = Console.ReadLine();
             if (str.Length == 0)
                 str = Console.ReadLine();
+            if (str.Length == 0)
+                str = Console.ReadLine();
 
         }
     }
